@@ -8,4 +8,6 @@ fn main() {
 	} else {
 		println(input)
 	}
+	input2 := reader.read_char()!
+	println("${input2}")
 }
