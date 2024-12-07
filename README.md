@@ -1,7 +1,7 @@
 # V-Tutorial
 Vlang is a simple and fast language used for building memory safe applications. It is used in systems programming, network programming, game dev, etc.
 
-This a simple, yet sufficient tutorial for the V programming language.
+This is a simple, yet sufficient tutorial for the V programming language.
 It covers pretty much what you would expect from a tutorial and after that, you're able to start writing your own programs. 
 
 # Installation and writing
